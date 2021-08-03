@@ -2433,12 +2433,12 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
+  background-color: #7581bf;
   border-color: #148f77;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #159a80;
+  background-color: #7581bf;
   border-color: #148f77;
   box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
 }
@@ -10142,7 +10142,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(117,129, 19, 0.9);
+  background-color: rgba(117, 129, 191, 1);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
